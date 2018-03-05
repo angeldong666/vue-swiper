@@ -49,7 +49,7 @@ new Vue({
         :loop=“true”
         @slide-change-start="onSlideChangeStart"
         @slide-change-end="onSlideChangeEnd">
-    <div>Page 1</div>
+    <div>Page 12</div>
     <div>Page 2</div>
     <div>Page 3</div>
 </swiper>
